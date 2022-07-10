@@ -8,6 +8,8 @@ authors = ["Lunev Dmitriy <dima.lunev14@gmail.com>"]
 python = "^3.10"
 fastapi = {extras = ["all"], version = "^0.78.0"}
 mypy = "^0.961"
+ipython = "^8.4.0"
+ormar = {extras = ["postgresql"], version = "^0.11.2"}
 
 [tool.poetry.dev-dependencies]
 
