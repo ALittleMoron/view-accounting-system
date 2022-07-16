@@ -15,4 +15,3 @@ class Settings(BaseSettings):
 
 settings = Settings()
 sys.path.insert(0, str(settings.BACKEND_DIR))
-

@@ -1,6 +1,5 @@
 class ExecuteError(Exception):
     """
-    Handle all Exeptions, that were caused in manage.py command;
+    Handle all Exceptions, that were caused in manage.py command;
     """
     pass
-
