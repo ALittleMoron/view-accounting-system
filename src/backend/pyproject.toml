@@ -11,6 +11,7 @@ mypy = "^0.961"
 ipython = "^8.4.0"
 ormar = {extras = ["postgresql"], version = "^0.11.2"}
 pytest = "^7.1.2"
+typer = {extras = ["all"], version = "^0.6.1"}
 
 [tool.poetry.dev-dependencies]
 pycodestyle = "^2.8.0"
