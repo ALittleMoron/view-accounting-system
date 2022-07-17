@@ -1,0 +1,19 @@
+{
+    "cSpell.words": [
+        "бэка",
+        "донатных",
+        "Чеклист",
+        "ASGI",
+        "fastapi",
+        "Linuxosx",
+        "mediafiles",
+        "starlette",
+        "typer",
+        "uvicorn"
+    ],
+    "python.testing.pytestArgs": [
+        "src/backend/tests"
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.pytestEnabled": true
+}
